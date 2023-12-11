@@ -37,7 +37,7 @@ busy = [
 
 ### Запуск проекта
 - Скачать и установить [Docker](https://docs.docker.com/get-docker/)
-- Клонировать репозиторий ```https://github.com/Pash1et/Test_task_MEDGARANT.git``` 
+- Клонировать репозиторий ```git clone https://github.com/Pash1et/Test_task_MEDGARANT.git``` 
 - В корне директории Test_task_MEDGARANT создать файл .env и заполнить его по примеру .env-example
 - Выполнить команду ```docker compose up -d --build```
 - Перейти по адресу ```http://localhost:8000/docs``` 
